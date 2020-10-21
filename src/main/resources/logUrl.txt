@@ -1,0 +1,1 @@
+jdbc:mysql://chloeproject-instance.cfxl4bfuhdad.us-east-2.rds.amazonaws.com:3306/chloeproject?user=admin&password=chloeyang&autoReconnect=true&serverTimezone=UTC
