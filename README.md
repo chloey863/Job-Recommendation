@@ -6,3 +6,5 @@ Link: http://18.191.229.199/jupiter/
 The following diagram is the workflow of the web service developed from scratch:
 
 ![Image of workflow](https://user-images.githubusercontent.com/71158530/96680418-13bbb900-133b-11eb-9e9f-94d4065cda65.jpg)
+
+**More information to come! Please Stay Tuned!**
