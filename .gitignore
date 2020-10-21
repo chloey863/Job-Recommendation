@@ -1,2 +1,4 @@
 src/main/java/com/chloeproject/job/env
 .DS_Store
+.war
+target
