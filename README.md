@@ -3,7 +3,7 @@ This is a AWS based web application for Job Search & Personalized Job Recommenda
 
 Link: http://18.191.229.199/jupiter/
 
-**(More information to come! Please Stay Tuned! )**
+**(More information to come! Please visit later )**
 
 The following diagram is the workflow of the web service developed from scratch:
 
